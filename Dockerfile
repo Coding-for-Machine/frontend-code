@@ -2,7 +2,7 @@
 FROM node:20
 
 # 2. Ishchi katalogni yaratish
-WORKDIR /app
+WORKDIR /frontend
 
 # 3. Loyihani konteynerga nusxalash
 COPY . .
